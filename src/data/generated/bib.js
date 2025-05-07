@@ -39,14 +39,6 @@
         "volume": "29",
         "year": "2024"
     },
-    "kwon2020platform": {
-        "author": "Kwon, Ha-Kyung and Gopal, Chirranjeevi Balaji and Kirschner, Jared and Caicedo, Santiago and Storey, Brian D.",
-        "howpublished": "\\url{https://arxiv.org/abs/2007.14443",
-        "note": "Preprint",
-        "title": "A user-centered approach to designing an experimental laboratory data platform",
-        "type": "misc",
-        "year": "2020"
-    },
     "lunn2019pride": {
         "author": "Lunn, Mitchell R. and Lubensky, Micah and Hunt, Carolyn and Flentje, Annesa and Capriotti, Matthew R. and Sooksaman, Chollada and Harnett, Todd and Currie, Del and Neal, Chris and Obedin-Maliver, Juno",
         "doi": "10.1093/jamia/ocz082",
@@ -79,6 +71,20 @@
         "type": "article",
         "volume": "29",
         "year": "2013"
+    },
+    "vanLeersum2020": {
+        "author": "Catharina M. van Leersum and Albine Moser and Ben van Steenkiste and Marion Reinartz and Esther Stoffers and Judith R. L. M. Wolf and Trudy van der Weijden",
+        "doi": "10.1186/s12911-020-1067-6",
+        "journal": "BMC Medical Informatics and Decision Making",
+        "note": "Open access",
+        "number": "1",
+        "pages": "57",
+        "publisher": "BioMed Central",
+        "title": "What matters to me \u2013 a web-based preference elicitation tool for clients in long-term care: a user-centred design",
+        "type": "article",
+        "url": "https://doi.org/10.1186/s12911-020-1067-6",
+        "volume": "20",
+        "year": "2020"
     },
     "walden2020ucd": {
         "author": "Walden, Anita and Garvin, Lynsi and Smerek, Michelle and Johnson, Constance",
